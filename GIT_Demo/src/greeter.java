@@ -7,6 +7,7 @@ public class greeter {
 	public static void main(String[] args) {
 		// TODO Auto-method stub
 		System.out.println("suscess");
+		System.out.println("first check");
 
 	}
 
