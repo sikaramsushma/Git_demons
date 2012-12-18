@@ -8,6 +8,7 @@ public class greeter {
 		// TODO Auto-method stub
 		System.out.println("suscess");
 		System.out.println("first check");
+		System.out.println("Branching check");
 
 	}
 
