@@ -15,6 +15,7 @@ public class ThreadSample {
    
      
     public static void main(String[] args) {
+    	System.out.println("Heloo");
             //  System.out.println("Sam!");  
               sampleThread sam = new sampleThread();
               ThreadSample tv= new ThreadSample(12,34);
